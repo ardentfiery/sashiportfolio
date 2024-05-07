@@ -26,7 +26,7 @@ const Home = () => {
                     <div>| COMPUTER ENGINEER |</div>
                 </div>
                 <div className="mr-2 lg:mr-10 text-[#3D52AO]">
-                    <a target="_blank" href="/sashi.pdf">
+                    <a target="_blank" rel="no referrer" href="/sashi.pdf">
                         | Resume |
                     </a>
                 </div>
@@ -104,20 +104,20 @@ const Home = () => {
                 <div className="lg:w-[90vw] lg:ml-16 lg:mt-[2px] bg-gray-400 h-[1px] shadow-sm shadow-[#a2aed7] ml-4 w-[90vw]"></div>
                 <div className="h-[10vh] lg:h-[8vh]  flex justify-around items-center text-[#3D52A0] text-[12px] lg:text-[18px] ">
                     <div>
-                        <a target="_blank" href="https://www.linkedin.com/in/shashi-puri-534100240/">
+                        <a target="_blank" rel="no referrer" href="https://www.linkedin.com/in/shashi-puri-534100240/">
                             LinkedIn
                         </a>
                     </div>
                     <div>
-                        <a target="_blank" href="https://github.com/Sashi1761">Github</a>
+                        <a target="_blank" rel="no referrer" href="https://github.com/Sashi1761">Github</a>
                     </div>
                     <div>
-                        <a target="_blank" href="https://www.instagram.com/shashi_purii/">
+                        <a target="_blank" rel="no referrer" href="https://www.instagram.com/shashi_purii/">
                             Instagram
                         </a>
                     </div>
                     <div>
-                        <a target="_blank" href="https://www.facebook.com/shashi.puri.359">
+                        <a target="_blank" rel="no referrer" href="https://www.facebook.com/shashi.puri.359">
                             Facebook
                         </a>
                     </div>

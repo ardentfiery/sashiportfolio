@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat&family=Nanum+Myeongjo&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 400;
+  
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}

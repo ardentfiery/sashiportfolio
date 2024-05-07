@@ -16,7 +16,7 @@ const Home = () => {
             data-aos="fade-right"
             flex
             flex-col
-            className="bg-[#dae4ea]  w-[100vw] max-w-[100%] lg:h-[100vh]   h-fit"
+            className="bg-[#dae4ea]  w-[100vw] max-w-[100%] sm:h-[100vh]   h-fit"
         >
             <div className="flex justify-between w-[100%] bg-[#d4e2f3]  text-[#3D52A0] h-20 items-center shadow-sm shadow-[#a2aed7]">
                 <div className="flex gap-2 lg:ml-10 text-sm lg:text-[15px] justify-between ">
